@@ -8,3 +8,8 @@
 	url = https://github.com/stephens999/ashr
 	shallow = true
 	registered = true
+[submodule "etrunct"]
+	path = etrunct
+	url = https://github.com/stephens999/etrunct
+	shallow = true
+	registered = true
